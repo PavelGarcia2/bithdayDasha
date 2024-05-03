@@ -1,11 +1,6 @@
 import "./App.css";
 import Confetti from "./Confetti";
-import { MDBBtn, MDBContainer } from "mdb-react-ui-kit";
 import Card from "./Components/Card";
-import ThreeScene from "./Components/ThreeScene";
-import Sphere from "./Components/Sphere";
-import { OrbitControls, Stars } from "@react-three/drei";
-import Model from "./Components/Model";
 
 export function App() {
   return (
