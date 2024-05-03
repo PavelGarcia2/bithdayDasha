@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chris M Birthday Cake
+* source:	https://sketchfab.com/3d-models/chris-m-birthday-cake-26421a9f3b4d42e79b6e8bbff9d3f7bc
+* author:	jtressle (https://sketchfab.com/jtressle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chris M Birthday Cake" (https://sketchfab.com/3d-models/chris-m-birthday-cake-26421a9f3b4d42e79b6e8bbff9d3f7bc) by jtressle (https://sketchfab.com/jtressle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
